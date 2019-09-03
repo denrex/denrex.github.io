@@ -93,6 +93,9 @@ Getting started is the hardest part. If there’s anything you’d like to know 
 
 Changed the username to denrex.github.io 
 
-## My project will be a website I am designing on nature.It is purely an example with no special relevance. Nethertheless, it will hopefully be accurate. 
-# Users and visitors may find it useful to see how a website is laid out. Any contributers might know better ways of presenting it,or have other usefull information. 
+##Project Description 
+My project will be a website I am designing on nature.It is purely an example with no special relevance. Nethertheless, it will hopefully be accurate. 
+
+##Expectatioms 
+Users and visitors may find it useful to see how a website is laid out. Any contributers might know better ways of presenting it,or have other usefull information. 
 
