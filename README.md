@@ -92,3 +92,7 @@ Getting started is the hardest part. If there’s anything you’d like to know 
 ## Made my first edit
 
 Changed the username to denrex.github.io 
+
+## My project will be a website I am designing on nature.It is purely an example with no special relevance. Nethertheless, it will hopefully be accurate. 
+
+
