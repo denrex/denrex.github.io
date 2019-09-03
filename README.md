@@ -93,11 +93,11 @@ Getting started is the hardest part. If there’s anything you’d like to know 
 
 Changed the username to denrex.github.io 
 
-##Project Description 
+## Project Description 
 
 My project will be a website I am designing on nature.It is purely an example with no special relevance. Nethertheless, it will hopefully be accurate. 
 
-##Expectatioms 
+## Expectations
 
 Users and visitors may find it useful to see how a website is laid out. Any contributers might know better ways of presenting it,or have other usefull information. 
 
