@@ -114,4 +114,12 @@ https://www.w3schools.com/
 
 Created a code of conduct file made from a github template. 
 
+## Deleted duplicate 
+
+Extra code of conduct file not needed. 
+
+## Made an edit.
+
+Gave a clearer description in the contribution guidelines file.
+
 
