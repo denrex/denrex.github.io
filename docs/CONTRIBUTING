@@ -1,0 +1,28 @@
+
+## How to contribute
+
+
+I'm really glad you're reading this, because volunteer developers would be welcomed with their ideas.
+
+If you haven't already, see denrex.github.io.work is being done on this project. 
+
+## Here are some important resources:
+
+There are  a handful of website features, but most of the code will be in Html,Css some javascript,all of which can be learnt from w3schools.com and images found on line in most search engines(Subjectto Copyright) or original material. 
+https://www.w3schools.com/
+
+## Submitting changes
+
+Please send a GitHub Pull Request to denrex.github.io with a clear list of what you've done. It doesn't matter if your website designing or coding skills aren't high. 
+
+Always write a clear log message for your commits. One-line messages are fine for small changes, but bigger changes should look like this:
+
+$ git commit -m "A brief summary of the commit > > A paragraph describing what changed and its impact." Coding conventions
+
+## Coding.
+
+Please try to use these languages mentioned. Any other php,SQL and design work would be fine.
+Above all, don't worry about skill level all ideas are welcome 
+
+Many Thanks, denrex.github.io 
+

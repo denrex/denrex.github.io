@@ -101,6 +101,17 @@ My project will be a website I am designing on nature.It is purely an example wi
 
 Users and visitors may find it useful to see how a website is laid out. Any contributers might know better ways of presenting it,or have other usefull information. 
 
-## Unlicense
+## Unliscense
 
 This website will be using the unlicense as described in the link https://choosealicense.com/licenses/unlicense/ and in the Unlicensed txt file provided. 
+
+## CONTRIBUTING 
+
+Created the docs/CONTRIBUTING.md file. Website address below was added as a resource. 
+https://www.w3schools.com/ 
+
+## Added Code of conduct. 
+
+Created a code of conduct file made from a github template. 
+
+
