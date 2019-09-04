@@ -104,3 +104,5 @@ Users and visitors may find it useful to see how a website is laid out. Any cont
 ## Unlicense
 
 This website will be using the unlicense as described in the link https://choosealicense.com/licenses/unlicense/ and in the Unlicensed txt file provided. 
+
+## Duplicate code of conduct file deleted.
