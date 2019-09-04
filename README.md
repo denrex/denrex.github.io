@@ -107,8 +107,8 @@ This website will be using the unlicense as described in the link https://choose
 
 ## CONTRIBUTING 
 
-Created the docs/CONTRIBUTING.md file. 
-
+Created the docs/CONTRIBUTING.md file. Website address below was added as a resource. 
+https://www.w3schools.com/ 
 
 ## Added Code of conduct. 
 
