@@ -110,5 +110,8 @@ This website will be using the unlicense as described in the link https://choose
 Created the docs/CONTRIBUTING.md file. 
 
 
+## Added Code of conduct. 
+
+Created a code of conduct file made from a github template. 
 
 
