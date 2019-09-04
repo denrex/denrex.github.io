@@ -108,7 +108,7 @@ This website will be using the unlicense as described in the link https://choose
 ## CONTRIBUTING 
 
 Created the docs/CONTRIBUTING.md file. 
-[Contribution guidelines for this project](docs/CONTRIBUTING.md)
+
 
 
 
