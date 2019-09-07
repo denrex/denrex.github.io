@@ -89,18 +89,16 @@ Want to add even more code and fun styles to your GitHub Pages website? [Follow 
 
 Getting started is the hardest part. If there’s anything you’d like to know as you get started with GitHub, try searching [GitHub Help](https://help.github.com). Our documentation has tutorials on everything from changing your repository settings to configuring GitHub from your command line.
 
-## Made my first edit
 
-Changed the username to denrex.github.io 
 
-## Project Description 
 
-My project will be a website I am designing on nature.It is purely an example with no special relevance. Nethertheless, it will hopefully be accurate. 
 
-## Expectations
 
-Users and visitors may find it useful to see how a website is laid out. Any contributers might know better ways of presenting it,or have other usefull information. 
 
-## Unlicense
 
-This website will be using the unlicense as described in the link https://choosealicense.com/licenses/unlicense/ and in the Unlicensed txt file provided. 
+
+
+
+
+
+
